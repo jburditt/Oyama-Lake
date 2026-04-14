@@ -6,11 +6,16 @@ Oyama Lake - Operations and Maintenance Manual
 2. Wood
 3. Maintenance
 4. Store
-5. Generator
-6. Operations
+5. Glamping
+6. Generator
+7. Operations
 
+# 5. Glamping
 
-# 5. Generator
+## Setup 
+- from the pair of shipping containers, the right container has dishes and utensils on shelves. Make a bin containing the following for each glamp site: 4 forks, spoons, saucers. 2 mugs, butter knives, steak knives. A pot, pan, kettle, french press (tea), drying rack, and cutting board
+
+# 6. Generator
 
 ## Check the diesel tank level
 - there is a tube on the right of the tank that indicates remaining diesel level
