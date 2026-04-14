@@ -13,4 +13,4 @@
 - Beams - 4" width, 6" height
 - Braces (6) between barrels and end pieces - 4" width, 2" thickness 
 
-[Images on Google Drive](https://drive.google.com/drive/folders/1BAu0qyNcwSwJWfDtEUvtnDgRM0iN58VM?usp=sharing)
+[Images on Google Drive](https://drive.google.com/drive/folders/1QC5veQdzPtMy8-IW9DpPV3H1u06em3V_?usp=drive_link)
