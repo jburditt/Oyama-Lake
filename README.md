@@ -1,4 +1,5 @@
-# Oyama-Lake
+# Oyama Lake Manual
+
 Oyama Lake - Operations and Maintenance Manual
 
 ## Table of Contents
