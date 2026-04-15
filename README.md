@@ -10,6 +10,17 @@ Oyama Lake - Operations and Maintenance Manual
 6. Generator
 7. Operations
 
+# 1. Cleaning
+
+## Cleaning List
+- [ ] bring cleaning supplies in below list
+- [ ] clean sheets on bed
+- [ ]
+
+## Cleaning Supplies
+- 
+- bedding TODO sizes needed for each cabin
+
 # 5. Glamping
 
 ## Setup 
