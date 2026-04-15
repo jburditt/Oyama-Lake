@@ -132,7 +132,7 @@ Tiny House
 - lift the tank using the pump metal parts and lift over the tailgate in small increments
 - once over the tail gate, you can push the tank to the table and put the knozzle on top of the tank
 
-# 6. Operations
+# 7. Operations
 
 ## Boat House Propant Toilet Instructions
 - emphasize 4 uses in 1 hour
@@ -145,3 +145,6 @@ Tiny House
 - show demo with start button
 - do not put water down without a liner or you will damage electronics
 - there is an outhouse, if needed
+
+## Boat Engine Maintenance 
+- Spark plug BR6HS for Yamaha 6 and 8 HP
