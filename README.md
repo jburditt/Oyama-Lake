@@ -149,3 +149,13 @@ Tiny House
 
 ## Boat Engine Maintenance 
 - Spark plug BR6HS for Yamaha 6 and 8 HP
+
+## Filling Jerry Cans or fueling truck 
+- Tap the AFD card in booth
+- Pin is ####
+- Enter Pump #
+- Tank is marked fuel, Jerry Cans are not
+- Flip the pump switch 
+- Start pumping
+- **Flip the pump switch back**
+
