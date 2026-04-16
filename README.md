@@ -154,7 +154,6 @@ Tiny House
 - Tap the AFD card in booth
 - Pin is ####
 - Enter Pump #
-- Tank is marked fuel, Jerry Cans are not
 - Flip the pump switch 
 - Start pumping
 - **Flip the pump switch back**
