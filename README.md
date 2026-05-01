@@ -14,18 +14,38 @@ Oyama Lake - Operations and Maintenance Manual
 # 1. Cleaning
 
 ## Cleaning Supplies
-- Cabin 9
-  - after cleaning, sort the recycling center
-  - after cleaning, empty bin and put everything back
-  - shower mat and 2x toilet paper
-  - big towel, little towel, sponge
-  - dish soap at least half full, rinse cap if not clean
-  - lighter for starting fire
-  - rake
-  - bucket
-  - if cold, 2 bins of wood, if unsure check with store person
-  - if cold, kindling and paper 
 
+toilet paper, paper towel, garbage/recycling/waste bags, soap, wet wipes, glass cleaner
+
+Remove any existing clothes and rags
+Fridge plugged in on check in day
+Use black rags/clothes for oven, not clean clothes or rage
+Remove wood from outside to resell
+Check walls and cupboards for food stains
+
+TODO cleanup formatting above and organize
+
+- sheets
+- all-purpose cleaner
+- oven cleaner
+- 4 face clothes, one should be black for cleaning ovens
+- after cleaning, sort the recycling center
+- after cleaning, empty bin and put everything back
+- shower mat and 2x toilet paper
+- big towel, little towel, sponge
+- dish soap at least half full, rinse cap if not clean
+- lighter for starting fire
+- rake
+- bucket
+- if cold, 2 bins of wood, if unsure check with store person
+- if cold, kindling and paper 
+- two bundles of wood, including kindling and paper
+- a 19L bottle of water during off season or when there is no running water
+
+Optional
+- brush
+- shop vacuum (if available)
+- 
 Bin
 - toilet paper and paper towel in a bag
 - dish soap bottle half full
