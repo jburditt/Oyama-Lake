@@ -15,23 +15,16 @@ Oyama Lake - Operations and Maintenance Manual
 
 ## Cleaning Supplies
 
-toilet paper, paper towel, garbage/recycling/waste bags, soap, wet wipes, glass cleaner
-
-Remove any existing clothes and rags
-Fridge plugged in on check in day
-Use black rags/clothes for oven, not clean clothes or rage
-Remove wood from outside to resell
-Check walls and cupboards for food stains
-
-TODO cleanup formatting above and organize
-
+Pack a bin with the following:
 - sheets
 - all-purpose cleaner
 - oven cleaner
 - 4 face clothes, one should be black for cleaning ovens
+- 1 kitchen towel for drying dishes
 - after cleaning, sort the recycling center
 - after cleaning, empty bin and put everything back
-- shower mat and 2x toilet paper
+- recyling (blue), waste (white), and garbage (black) bags; one of each for each cabin
+- shower mat
 - big towel, little towel, sponge
 - dish soap at least half full, rinse cap if not clean
 - lighter for starting fire
@@ -41,11 +34,8 @@ TODO cleanup formatting above and organize
 - if cold, kindling and paper 
 - two bundles of wood, including kindling and paper
 - a 19L bottle of water during off season or when there is no running water
+- bring toilet paper, and make sure each cabin has 2 rolls of toilet paper
 
-Optional
-- brush
-- shop vacuum (if available)
-- 
 Bin
 - toilet paper and paper towel in a bag
 - dish soap bottle half full
@@ -58,6 +48,17 @@ Bin
 - blue, white, and black bag (recycling, and garbage bags)
 - full 18.9L water bottle
 - bedding TODO sizes needed for each cabin
+  
+Optional
+- brush
+- shop vacuum (if available)
+
+## Notes
+- [ ] Remove any existing clothes and rags
+- [ ] Fridge plugged in on check in day
+- [ ] Use black rags/clothes for oven, not clean clothes or rage
+- [ ] Remove wood from outside to resell
+- [ ] Check walls and cupboards for food stains
 
 ## Cleaning List
 - [ ] bring cleaning supplies in above list
